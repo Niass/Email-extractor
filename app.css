@@ -1,0 +1,32 @@
+body {
+  background-color: #7ECEC6;
+}
+
+button {
+  display: block;
+  margin: auto;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 15px;
+
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  background-color:rgb(24, 43, 36);
+  color: white;
+  cursor: pointer;
+}
+.container {
+  max-width: 980px;
+  margin: auto;
+  text-align: center;
+  /* background-color: azure; */
+}
+
+textarea {
+  background-color: #CDDAE2;
+}
